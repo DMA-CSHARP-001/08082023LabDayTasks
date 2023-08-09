@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "709g5T88tEHAjojOj+69EhuCN+7WOtYQqjOU+JrK7XEBgg/dU81anYKVrqWH7UhEBtLsPxJpwO5RuBlVop0UzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elgun\\source\\repos\\LabDay08082023\\LabDay08082023\\LabDay08082023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elgun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
